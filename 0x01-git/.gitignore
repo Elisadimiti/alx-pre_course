@@ -1,0 +1,5 @@
+# Ignore the node_modules directory
+# Ignore Logs
+# Ignore the build directory
+# The file containing environment variables 
+# Ignore IDE specific files
